@@ -7,7 +7,7 @@
 
 [🗣️] I speak French (native language) and English (B2 level). I’m also practicing Spanish and Japanese.
 
-# What do I do?
+# What I do
 
 [🔭] I am a first-year IT student at the University of Paul Sabatier in Toulouse.
 
