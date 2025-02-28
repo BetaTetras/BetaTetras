@@ -19,6 +19,8 @@ FightGame [IN PROGRESS]: A mini game in C++ that features a turn-based fantasy f
 
 SnakeCut [PLANNED]: An open-source application that can split a file into two parts, encrypt the data, and the file can only be read if both parts are put back together.
 
+EquaSolve [IN PROGRESS] : A programme that can solve equation 
+
 # Where can you find me?
 
 [📫] You can reach me via email: gregoire.gibrat@gmail.com
