@@ -21,6 +21,8 @@ SnakeCut [PLANNED]: An open-source application that can split a file into two pa
 
 EquaSolve [IN PROGRESS] : A programme that can solve equation 
 
+PasswordManager [IN PROGRESS] : A program that manage identities and passwords using a text-based database.
+
 # Where can you find me?
 
 [📫] You can reach me via email: gregoire.gibrat@gmail.com
