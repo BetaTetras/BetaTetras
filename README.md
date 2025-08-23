@@ -11,7 +11,7 @@
 
 [🔭] I am a first-year IT student at the University of Paul Sabatier in Toulouse.
 
-[🌱] I work with programming languages such as C, C++, Python, and Ada.
+[🌱] I work with programming languages such as C, C++, Python, Ada, Shell and Java. I do also learn SQL, HTML and CSS
 
 [⚡] My projects:
 
