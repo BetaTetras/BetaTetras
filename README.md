@@ -25,6 +25,3 @@ PasswordManager [IN PROGRESS] : A program that manage identities and passwords u
 
 Cnake [IN PROGRESS] : A simple snake game programed in C.
 
-# Where can you find me?
-
-[📫] You can reach me via email: gregoire.gibrat@gmail.com
