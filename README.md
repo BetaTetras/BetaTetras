@@ -1,7 +1,7 @@
 
 # Who am I?
 
-[👋🏻] I am Grégoire GIBRAT, and I come from Toulouse, France.
+[👋🏻] I am BetaTetras, and I come from France.
 
 [❤️] I love learning more about the tech world (both software and hardware), programming, traveling around the world, and walking.
 
@@ -9,7 +9,7 @@
 
 # What I do ?
 
-[🔭] I am a first-year IT student at the University of Paul Sabatier in Toulouse.
+[🔭] I am a second-year IT student at the University of Toulouse.
 
 [🌱] I work with programming languages such as C, C++, Python, Ada, Shell and Java. I do also learn SQL, HTML and CSS
 
