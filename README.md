@@ -1,11 +1,11 @@
 
 # Who am I?
 
-[👋🏻] I am BetaTetras, and I come from France,I love learning more about the tech world (both software and hardware), programming, traveling around the world, and walking.
+[👋🏻] I am BetaTetras
+[  ]I come from France,I love learning more about the tech world (both software and hardware), programming, traveling around the world, and walking.
 and I speak French (native language) and English (B2 level). I’m also practicing Spanish and Japanese.
 
 # What I do ?
-## Language : 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
