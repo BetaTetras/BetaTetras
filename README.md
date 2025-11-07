@@ -1,8 +1,7 @@
 
 # Who am I?
 
-[👋🏻] I am BetaTetras
-[  ]I come from France,I love learning more about the tech world (both software and hardware), programming, traveling around the world, and walking.
+I am BetaTetras, I come from France,I love learning more about the tech world (both software and hardware), programming, traveling around the world, and walking.
 and I speak French (native language) and English (B2 level). I’m also practicing Spanish and Japanese.
 
 # What I do ?
