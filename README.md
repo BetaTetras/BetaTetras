@@ -2,12 +2,16 @@
 
 # Hey, I'm BetaTetras 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Figtree&size=22&duration=2500&pause=2500&color=F70606&center=true&vCenter=true&width=600&lines=Wake+the+fuck+samurai%2C+we+have+a+code+to+write)](https://git.io/typing-svg)
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?width=1000&height=35&pause=5000&backgroundOpacity=0&border=false&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22Wake+the+%23%23%23%23+up+samura%C3%AF%2C+we+have+a+code+to+write%22%2C%22color%22%3A%22%23ffffff%22%2C%22typingSpeed%22%3A0.02857142857142857%2C%22deleteSpeed%22%3A0.05%7D%2C%7B%22text%22%3A%22Or+not+...+I+need+to+sleep%22%2C%22color%22%3A%22%23ffffff%22%2C%22typingSpeed%22%3A0.02857142857142857%2C%22deleteSpeed%22%3A0.05%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
 </div>
+
 ---
-<img src="https://tetras.me/github/nighthawks.png" width="600"/>
+
+<img src="https://tetras.me/depo/github/NightCity_compressed.png" width="1000" height="300"/>
+
 ---
+
 </div>
 
 ## 🙋 Who am I?
@@ -66,35 +70,42 @@ I'm **BetaTetras**, a passioned student in IT that learns each day on hardware a
     <td><b>FightGame</b></td>
     <td><code>Game</code></td>
     <td>A mini turn-based fantasy fight game written in C++.</td>
-    <td><img src="https://img.shields.io/badge/-In%20Progress-E8453C?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/FINISHED-850000"/></td>
   </tr>
   <tr>
     <td>➕</td>
     <td><b>EquaSolve</b></td>
     <td><code>Tool</code></td>
     <td>A program that can solve equations.</td>
-    <td><img src="https://img.shields.io/badge/-In%20Progress-E67E22?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/FINISHED-850000"/></td>
   </tr>
   <tr>
     <td>🔐</td>
     <td><b>PasswordManager</b></td>
     <td><code>Security</code></td>
     <td>Manages identities and passwords using a text-based database.</td>
-    <td><img src="https://img.shields.io/badge/-In%20Progress-E67E22?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/IN_PROGRESS-008502"/></td>
   </tr>
   <tr>
     <td>🐍</td>
     <td><b>Cnake</b></td>
     <td><code>Game</code></td>
     <td>A classic Snake game programmed in C.</td>
-    <td><img src="https://img.shields.io/badge/-In%20Progress-2ECC71?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/IN_PROGRESS-008502"/></td>
   </tr>
   <tr>
     <td>🌳</td>
     <td><b>CTree</b></td>
     <td><code>Tool</code></td>
     <td>Tool for visualising a tree representation of the structure of a Linux-base systheme</td>
-    <td><img src="https://img.shields.io/badge/-In%20Progress-2ECC71?style=flat-square"/></td>
+    <td><img src="https://img.shields.io/badge/IN_PROGRESS-008502"/></td>
+  </tr>
+  <tr>
+    <td>📡</td>
+    <td><b>ProjetProxyFTP</b></td>
+    <td><code>Tool</code></td>
+    <td>An FTP proxy written in C that transparently relays commands and data between a client and a real FTP server.</td>
+    <td><img src="https://img.shields.io/badge/FINISHED-850000"/></td>
   </tr>
 </table>
 
