@@ -6,32 +6,30 @@
 
 </div>
 
----
-
 ## 🙋 Who am I?
 
-> *"[Ta citation favorite ou une phrase qui te représente]"*
 
-Je suis **[Prénom ou pseudo]**, [une description de toi en 2-3 phrases décontractées. Parle de ce que tu aimes, ce qui te motive, ce que tu fais dans la vie. Lorem ipsum dolor sit amet, consectetur adipiscing elit.]
+I'm **Betatetras**, a passioned student in IT that lear eatch day on hardware and software.
 
 ```
-🌍  [Ville, Pays]          🎓  [Statut : étudiant, dev, ...]
-🗣️  [Langues parlées]      🎯  [Ce sur quoi tu travailles en ce moment]
-✈️  [Passion 1]            🎮  [Passion 2]
+🌍  Toulouse, France            🎓  Student in the University Toulouse III
+🗣️  French, English             🗄️  tetras.me
+
+⭐  Running, Walking, creating, gaming and obviously coding
 ```
 
 ---
 
 ## 🛠️ My Stack
 
-> Les technos avec lesquelles je passe mes journées (et mes nuits)
+> Language that I work on 
 
-![Lorem](https://img.shields.io/badge/Language1-★★★★☆-FF6B6B?style=flat-square)
-![Ipsum](https://img.shields.io/badge/Language2-★★★★☆-FFD93D?style=flat-square)
-![Dolor](https://img.shields.io/badge/Language3-★★★☆☆-6BCB77?style=flat-square)
-![Sit](https://img.shields.io/badge/Language4-★★★☆☆-4D96FF?style=flat-square)
-![Amet](https://img.shields.io/badge/Language5-★★☆☆☆-C77DFF?style=flat-square)
-![Consec](https://img.shields.io/badge/Tool1-★★☆☆☆-FF9A3C?style=flat-square)
+![C](https://img.shields.io/badge/Language1-★★★★☆-4D96FF?style=flat-square)
+![SQL](https://img.shields.io/badge/Language2-★★★☆☆-FFD93D?style=flat-square)
+![SQL](https://img.shields.io/badge/Language2-★★★☆☆-FFD93D?style=flat-square)
+![Java](https://img.shields.io/badge/Language4-★★★☆☆-4D96FF?style=flat-square)
+![HTML/CSS](https://img.shields.io/badge/Language5-★★☆☆☆-C77DFF?style=flat-square)
+![PHP](https://img.shields.io/badge/Tool1-★★★☆☆-FF9A3C?style=flat-square)
 
 ---
 
