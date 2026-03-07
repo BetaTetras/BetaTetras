@@ -6,30 +6,53 @@
 
 </div>
 
+---
+
 ## 🙋 Who am I?
 
-
-I'm **Betatetras**, a passioned student in IT that lear eatch day on hardware and software.
+I'm **BetaTetras**, a passioned student in IT that learns each day on hardware and software.
 
 ```
-🌍  Toulouse, France            🎓  Student in the University Toulouse III
+🌍  Toulouse, France            🎓  Student at Université Toulouse III
 🗣️  French, English             🗄️  tetras.me
-
-⭐  Running, Walking, creating, gaming and obviously coding
+⭐  Running · Walking · Creating · Gaming · Coding
 ```
 
 ---
 
 ## 🛠️ My Stack
 
-> Language that I work on 
+**Languages**
 
-![C](https://img.shields.io/badge/Language1-★★★★☆-4D96FF?style=flat-square)
-![SQL](https://img.shields.io/badge/Language2-★★★☆☆-FFD93D?style=flat-square)
-![SQL](https://img.shields.io/badge/Language2-★★★☆☆-FFD93D?style=flat-square)
-![Java](https://img.shields.io/badge/Language4-★★★☆☆-4D96FF?style=flat-square)
-![HTML/CSS](https://img.shields.io/badge/Language5-★★☆☆☆-C77DFF?style=flat-square)
-![PHP](https://img.shields.io/badge/Tool1-★★★☆☆-FF9A3C?style=flat-square)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ada](https://img.shields.io/badge/Ada-02458D?style=flat-square&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![COBOL](https://img.shields.io/badge/COBOL-005CA5?style=flat-square&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![ASM](https://img.shields.io/badge/Assembleur-6E4C13?style=flat-square&logoColor=white)
+
+**Tools & Software**
+
+![WinDev](https://img.shields.io/badge/WinDev-E2001A?style=flat-square&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache2-D22128?style=flat-square&logo=apache&logoColor=white)
+![Microsoft Suite](https://img.shields.io/badge/Microsoft%20Suite-D83B01?style=flat-square&logo=microsoft&logoColor=white)
+![SQL Developer](https://img.shields.io/badge/SQL%20Developer-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-F80000?style=flat-square&logo=oracle&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 ---
 
@@ -37,57 +60,46 @@ I'm **Betatetras**, a passioned student in IT that lear eatch day on hardware an
 
 <table>
   <tr>
-    <td>🟥</td>
-    <td><b>Lorem Ipsum</b></td>
-    <td><code>[Type]</code></td>
-    <td>Dolor sit amet consectetur adipiscing elit. Sed do eiusmod tempor.</td>
-    <td><img src="https://img.shields.io/badge/-In%20Progress-FFD93D?style=flat-square"/></td>
+    <td>⚔️</td>
+    <td><b>FightGame</b></td>
+    <td><code>Game</code></td>
+    <td>A mini turn-based fantasy fight game written in C++.</td>
+    <td><img src="https://img.shields.io/badge/-In%20Progress-E8453C?style=flat-square"/></td>
   </tr>
   <tr>
-    <td>🟦</td>
-    <td><b>Dolor Sit</b></td>
-    <td><code>[Type]</code></td>
-    <td>Ut labore et dolore magna aliqua. Quis nostrud exercitation ullamco.</td>
-    <td><img src="https://img.shields.io/badge/-In%20Progress-FFD93D?style=flat-square"/></td>
+    <td>➕</td>
+    <td><b>EquaSolve</b></td>
+    <td><code>Tool</code></td>
+    <td>A program that can solve equations.</td>
+    <td><img src="https://img.shields.io/badge/-In%20Progress-E67E22?style=flat-square"/></td>
   </tr>
   <tr>
-    <td>🟩</td>
-    <td><b>Amet Consec</b></td>
-    <td><code>[Type]</code></td>
-    <td>Laboris nisi ut aliquip ex ea commodo consequat duis aute irure.</td>
-    <td><img src="https://img.shields.io/badge/-Done-6BCB77?style=flat-square"/></td>
+    <td>🔐</td>
+    <td><b>PasswordManager</b></td>
+    <td><code>Security</code></td>
+    <td>Manages identities and passwords using a text-based database.</td>
+    <td><img src="https://img.shields.io/badge/-In%20Progress-E67E22?style=flat-square"/></td>
   </tr>
   <tr>
-    <td>🟨</td>
-    <td><b>Sadipscing</b></td>
-    <td><code>[Type]</code></td>
-    <td>Reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla.</td>
-    <td><img src="https://img.shields.io/badge/-Planned-4D96FF?style=flat-square"/></td>
+    <td>🐍</td>
+    <td><b>Cnake</b></td>
+    <td><code>Game</code></td>
+    <td>A classic Snake game programmed in C.</td>
+    <td><img src="https://img.shields.io/badge/-In%20Progress-2ECC71?style=flat-square"/></td>
   </tr>
   <tr>
-    <td>🟪</td>
-    <td><b>Elitr Nonumy</b></td>
-    <td><code>[Type]</code></td>
-    <td>Excepteur sint occaecat cupidatat non proident sunt in culpa officia.</td>
-    <td><img src="https://img.shields.io/badge/-Planned-4D96FF?style=flat-square"/></td>
+    <td>🌳</td>
+    <td><b>CTree</b></td>
+    <td><code>Tool</code></td>
+    <td>Tool for visualising a tree representation of the structure of a Linux-base systheme</td>
+    <td><img src="https://img.shields.io/badge/-In%20Progress-2ECC71?style=flat-square"/></td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-*[Ta phrase de fin — une vibe, un motto, quelque chose qui te ressemble 🙂]*
+*Wake the fuck up, samurai. We have a code to write.* 🔥
 
 </div>
