@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm BetaTetras 👋
-
+<img src="https://tetras.me/github/nighthawks.png" width="600"/>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Figtree&size=22&duration=2500&pause=2500&color=F70606&center=true&vCenter=true&width=600&lines=Wake+the+fuck+samurai%2C+we+have+a+code+to+write)](https://git.io/typing-svg)
 
 </div>
