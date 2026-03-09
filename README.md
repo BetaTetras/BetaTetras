@@ -113,6 +113,6 @@ I'm **BetaTetras**, a passioned student in IT that learns each day on hardware a
 
 <div align="center">
 
-*Wake the fuck up, samurai. We have a code to write.* 🔥
+*END*
 
 </div>
