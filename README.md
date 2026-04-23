@@ -84,21 +84,21 @@ I'm **BetaTetras**, a passioned student in IT that learns each day on hardware a
     <td><b>PasswordManager</b></td>
     <td><code>Security</code></td>
     <td>Manages identities and passwords using a text-based database.</td>
-    <td><img src="https://img.shields.io/badge/IN_PROGRESS-008502"/></td>
+    <td><img src="https://img.shields.io/badge/PROGRESSING-008502"/></td>
   </tr>
   <tr>
     <td>🐍</td>
     <td><b>Cnake</b></td>
     <td><code>Game</code></td>
     <td>A classic Snake game programmed in C.</td>
-    <td><img src="https://img.shields.io/badge/IN_PROGRESS-008502"/></td>
+    <td><img src="https://img.shields.io/badge/PROGRESSING-008502"/></td>
   </tr>
   <tr>
     <td>🌳</td>
     <td><b>CTree</b></td>
     <td><code>Tool</code></td>
     <td>Tool for visualising a tree representation of the structure of a Linux-base systheme</td>
-    <td><img src="https://img.shields.io/badge/IN_PROGRESS-008502"/></td>
+    <td><img src="https://img.shields.io/badge/PROGRESSING-008502"/></td>
   </tr>
   <tr>
     <td>📡</td>
