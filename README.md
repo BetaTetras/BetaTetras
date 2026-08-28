@@ -19,8 +19,8 @@
 I'm **BetaTetras**, a passioned student in IT that learns each day on hardware and software.
 
 ```
-🌍  Toulouse, France            🎓  Student at Université Toulouse III
-🗣️  French, English             🗄️  tetras.me
+🌍  Toulouse, France | Hanoi, Vietnam           🎓  Student at Université Toulouse III | USTH 
+🗣️  French, English                             🗄️  tetras.me
 ⭐  Running · Walking · Creating · Gaming · Coding
 ```
 
@@ -105,6 +105,13 @@ I'm **BetaTetras**, a passioned student in IT that learns each day on hardware a
     <td><b>ProjetProxyFTP</b></td>
     <td><code>Tool</code></td>
     <td>An FTP proxy written in C that transparently relays commands and data between a client and a real FTP server.</td>
+    <td><img src="https://img.shields.io/badge/FINISHED-850000"/></td>
+  </tr>
+  <tr>
+    <td>🔐</td>
+    <td><b>AES-256-GCM</b></td>
+    <td><code>Tool</code></td>
+    <td>Military grade encryting system</td>
     <td><img src="https://img.shields.io/badge/FINISHED-850000"/></td>
   </tr>
 </table>
